@@ -39,13 +39,13 @@ class Post extends Model
         [
             "title" => "Judul Jurnal Pertama",
             "slug" => "judul-jurnal-pertama",
-            "author" => "M. Nur Arafah",
+            "author" => "Neti Septi Wijaya",
             "body" => "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga cumque voluptas necessitatibus reiciendis dolores soluta ipsum iusto, dignissimos sequi facere, modi pariatur. Vero animi quo distinctio tempore nobis similique voluptatum."
         ],
         [
             "title" => "Judul Jurnal Kedua",
             "slug" => "judul-jurnal-kedua",
-            "author" => "M. Nur Arafah",
+            "author" => "Neti Septi Wijaya",
             "body" => "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci inventore consectetur quos ducimus sunt unde delectus dolor, deleniti sint maxime deserunt fugit laboriosam doloremque dolorum, consequuntur temporibus perferendis est! Sunt."
         ]
     ];
